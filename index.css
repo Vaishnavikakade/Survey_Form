@@ -65,8 +65,9 @@ margin-top: 15px;
     
 }
 input,input::placeholder{
- font-size: medium;
+ font-size: large;
  padding-left: 10px;
+ /* font-weight: bold; */
 }
 #exampleInputEmail1{
     margin-bottom: 20px;
