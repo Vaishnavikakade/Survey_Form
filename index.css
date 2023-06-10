@@ -279,7 +279,9 @@ textarea,textarea::placeholder{
       } 
       
       .form-group{
-    
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: x-large;
+        font-weight: bolder;
       }
       fieldset{
         padding-left: 100px;
