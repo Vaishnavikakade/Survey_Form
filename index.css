@@ -286,7 +286,8 @@ textarea,textarea::placeholder{
       fieldset{
         padding-left: 100px;
         padding-right: 60px;
-        padding-top: 40px;
+        padding-top: 50px;
+        padding-bottom: 20px;
         margin-left: 220px;
         margin-right: 220px;
         background-color: rgba(27, 27, 50, 0.8);
@@ -306,7 +307,7 @@ textarea,textarea::placeholder{
         margin-left: 0px;
     }
     .form-control2{
-        height: 130px;
+        height: 170px;
         width: 800px;
     
     }
@@ -314,7 +315,7 @@ textarea,textarea::placeholder{
         height: 50px;
         width: 200px;
         align-items: center;
-        margin-left: 390px;
+        margin-left: 350px;
         background-color: rgb(8, 99, 38);
         color: white;
         margin-top: 20px;
